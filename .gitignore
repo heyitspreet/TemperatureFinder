@@ -5,3 +5,5 @@ t.m
 thermal.m
 thermal2face.m
 *.pdf
+thermalTempFinder.py
+thermalprocessing.py
